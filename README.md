@@ -1,5 +1,9 @@
 # India's External Account & Forex Analysis (2020-2027)
 
+<!-- how-to-use-with-ai -->
+> **New here?** See [How to use this repo with AI (Claude, Gemini, ChatGPT)](HOW_TO_USE_WITH_AI.md) — clone it, paste it into an AI tool, and ask in plain English.
+
+
 ## 📊 Comprehensive FX Reserves, Trade Balance & Fiscal Sustainability Analysis
 
 A multi-layered strategic analysis of India's external account, foreign exchange reserves, trade deficit, and fiscal sustainability covering the post-pandemic period (2020-2026) with projections through 2027.
