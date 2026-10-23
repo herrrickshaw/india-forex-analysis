@@ -1,3 +1,5 @@
+> **CORRECTION (2026-10-23):** trade totals in this document (exports, imports, deficit and the projections built on them) are exactly 2x the true values because the source sheet's grand-total row was summed with its line items. See [CORRECTIONS.md](CORRECTIONS.md) for corrected FY figures; do not cite the figures below.
+
 # Multi-Source Integration Analysis: Reconciling Data from RBI, GOI, and Trade Sources
 
 **Analysis Date**: June 25, 2026  
