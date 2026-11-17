@@ -1,5 +1,7 @@
 # India's External Account & Forex Analysis (2020-2027)
 
+> **CORRECTION (2026-10-23):** every trade total below (exports, imports, deficit, 2026 projections) is exactly 2x the true value - a grand-total row was double counted. Corrected FY2018-19 to FY2025-26 figures, evidence and the list of withdrawn claims are in [CORRECTIONS.md](CORRECTIONS.md); data: [`data/india_merchandise_trade_totals_FY2018-19_to_FY2025-26.csv`](data/india_merchandise_trade_totals_FY2018-19_to_FY2025-26.csv).
+
 <!-- how-to-use-with-ai -->
 > **New here?** See [How to use this repo with AI (Claude, Gemini, ChatGPT)](HOW_TO_USE_WITH_AI.md) — clone it, paste it into an AI tool, and ask in plain English.
 
@@ -16,7 +18,7 @@ A multi-layered strategic analysis of India's external account, foreign exchange
 
 India faces a **structural external account crisis** characterized by:
 
-- **Trade deficit widening**: -$567B (2023) → -$769.5B (2026 projected) — 7.3x worse than pre-pandemic baseline
+- **Trade deficit widening** (corrected, see CORRECTIONS.md): -$283.5B (FY2024-25) → -$334.3B (FY2025-26, provisional); the earlier -$567B / -$769.5B figures were 2x double counts and are withdrawn
 - **FX reserves pressured**: $691.11B with 10.8 months import coverage (declining, zero buffer for base case)
 - **Interest burden rising**: 26% of government revenue by 2026-27 (from 16% pre-pandemic)
 - **Refinancing crisis**: 32% of government borrowing needed for debt repayment by 2026-27 (doubled)
@@ -92,7 +94,7 @@ India faces a **structural external account crisis** characterized by:
 
 | Metric | 2019-20 (Best) | 2023-24 (Current) | 2026-27 (Projected) | Status |
 |--------|---|---|---|---|
-| **Trade Deficit** | -$105B | -$567B | -$769.5B | 🔴 7.3x worse |
+| **Trade Deficit** | see CORRECTIONS.md | -$283.5B (FY2024-25) / -$334.3B (FY2025-26 prov.) | withdrawn (2x error) | 🔴 widening |
 | **FX Reserves** | $426B (13-14 mo) | $691B (10.8 mo) | $670-720B (uncertain) | 🟡 Declining |
 | **Import Coverage** | 13-14 months | 10.8 months | 10.8 months | 🔴 WORST |
 | **Monthly Trade Drain** | -$8.75B | -$47.3B | -$64.1B | 🔴 Accelerating |
